@@ -1,0 +1,28 @@
+import = [
+	"~/.config/alacritty/catppuccin-mocha.toml"
+]
+
+live_config_reload = true
+
+[env]
+TERM = "xterm-256color"
+
+[shell]
+program = "/bin/zsh"
+
+[font.normal]
+family = "Meslo LGS Nerd Font"
+style = "Regular"
+
+[font]
+size = 16
+
+[font.bold]
+family = "Meslo LGS Nerd Font"
+style = "Bold"
+
+[font.italic]
+family = "Meslo LGS Nerd Font"
+style = "Italic"
+
+
